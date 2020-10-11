@@ -1,0 +1,39 @@
+〇ショートカット〇
+htmlのテンプレを開く
+                歯車/ユーザースニペット/html.json
+タグ作成
+                alt+w
+コード折り返し
+                alt+z
+ブックマーク作成
+                ctrl+alt+K
+ブックマーク移動
+                ctrl+alt+J(I)
+コメント化
+                ctrl+/
+その行を下に移動
+                Alt+↓
+その行を複製
+                Shift+Alt+↓コマンド
+                Ctrl+shift+p
+整形
+                shift+alt+f
+検索
+                ctrl+f
+
+git手順
+                git add ファイル名
+                git commit -m "Create ファイル名"
+                git push origin master
+
+                git pull origin master
+
+
+                git status
+                git diff
+                git log
+                git log -p
+                q (閉じる)
+
+
+
